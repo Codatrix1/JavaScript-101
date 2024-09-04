@@ -1,1 +1,2 @@
-Complete JavaScript
+# JavaScript-101
+Complete-JavaScript
